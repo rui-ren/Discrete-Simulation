@@ -1,8 +1,5 @@
 #pragma once
 
-//general.h
-//Dr. Mengjiao Yu
-//Date: Dec 2, 2004
 //
 //general purposed function
 //Please take a look at the input.dat file

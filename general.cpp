@@ -1,9 +1,5 @@
 #include "general.h"
 
-//general.cpp
-//Dr. Mengjiao Yu
-//Date: Dec 2, 2004
-//
 //general purposed function
 //Please take a look at the input.dat file
 //1. The purpose here is to provide a funcition that can bypass the white spaces and comments...
